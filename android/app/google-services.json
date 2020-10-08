@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36713114364",
+    "firebase_url": "https://spotify-60fbc.firebaseio.com",
+    "project_id": "spotify-60fbc",
+    "storage_bucket": "spotify-60fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36713114364:android:0e52ecdd0963539a16c579",
+        "android_client_info": {
+          "package_name": "com.example.spotify_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36713114364-qm95gkla3kupeqq6qk5o4ufg98mc3pcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu8Dvnkq38fX53k7qsLp6CBSbjQQaZErs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36713114364-qm95gkla3kupeqq6qk5o4ufg98mc3pcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
