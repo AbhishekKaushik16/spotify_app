@@ -267,7 +267,7 @@ class _MyPlayerState extends State<MyPlayer> {
                                       if (_isPlaying == true) {
                                         print("Playing .....");
                                         audioCache.play(
-                                          'Dil Bechara - Title Song.mp3',
+                                          'audio1.mp3',
                                         );
                                       } else {
                                         print("Paused .....");
